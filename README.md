@@ -7,5 +7,3 @@ Selamat datang di **Online Store**, sebuah platform e-commerce sederhana untuk m
 - Keranjang belanja  
 - Sistem checkout dengan metode pembayaran  
 - Dashboard admin untuk mengelola produk  
-
-## 📂 Struktur Proyek
